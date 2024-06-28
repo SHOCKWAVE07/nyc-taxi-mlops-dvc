@@ -32,5 +32,5 @@ jobs:
               run: |
                 echo "# Model Evalutaion Results" >> report.md
                 echo "## Bar Graph for Cross Val Scores" >> report.md
-                echo "![](./plots/results.png)" >> report.md
+                echo "![](./plots/bar_plot.png)" >> report.md
                 cml comment create report.md
