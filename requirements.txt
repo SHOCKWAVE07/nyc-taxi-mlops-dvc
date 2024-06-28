@@ -8,4 +8,6 @@ python-dotenv
 tqdm
 typer
 dvc
+matplotlib
+numpy
 -e .
