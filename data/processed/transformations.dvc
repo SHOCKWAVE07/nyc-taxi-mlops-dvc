@@ -1,6 +1,0 @@
-outs:
-- md5: eb8e4295d496ba625c38a500d63ba12d.dir
-  size: 208192931
-  nfiles: 3
-  hash: md5
-  path: transformations
