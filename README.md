@@ -2,7 +2,7 @@
 
 This project estimates the trip duration for NYC taxis using machine learning. The data used in this project is sourced from Kaggle. The project is structured using Cookiecutter for folder templates and follows the machine learning lifecycle initially in Jupyter Notebook and later in Python scripts. 
 
-![Alt text](plots\nyc-taxi workflow.png)
+![Alt text](plots\nyc-taxi-workflow.png)
 
 
 ## Project Overview
