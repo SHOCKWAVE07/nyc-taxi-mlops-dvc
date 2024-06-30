@@ -1,10 +1,20 @@
-# nyc-taxi
+# NYC Taxi Trip-Duration Estimation
 
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
+This project estimates the trip duration for NYC taxis using machine learning. The data used in this project is sourced from Kaggle. The project is structured using Cookiecutter for folder templates and follows the machine learning lifecycle initially in Jupyter Notebook and later in Python scripts. 
 
-A short description of the project.
+![Alt text](plots\nyc-taxi workflow.png)
+
+
+## Project Overview
+
+This project involves:
+- Data collection and preprocessing
+- Feature engineering
+- Model training and evaluation
+- Deployment of the model as a web service using FastAPI
+- Containerization using Docker
+- Continuous Integration and Deployment (CI/CD) using GitHub Actions
+- Deployment to AWS ECR and EC2
 
 ## Project Organization
 
